@@ -135,4 +135,4 @@ angular.module('imageupload', [])
                 });
             }
         };
-    }]);
+    });
