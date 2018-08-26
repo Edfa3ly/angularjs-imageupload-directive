@@ -19,6 +19,7 @@
   "author": "Fabian Raetz",
   "license": "BSD",
   "dependencies": {
+    "angular": "^1.1.4",
     "express": "~3.1.0"
   }
 }
